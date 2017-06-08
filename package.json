@@ -1,0 +1,14 @@
+{
+  "name": "project3-test",
+  "version": "1.0.0",
+  "description": "can I put pictures into mongodb",
+  "main": "server.js",
+  "repository": "https://github.com/dryguy99/project3-test1.git",
+  "author": "Timothy Dry <timothy.dry@verizon.net>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.10.5",
+    "multer": "^1.3.0"
+  }
+}
